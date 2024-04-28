@@ -3,7 +3,45 @@
 	margin:0px;
 }
 body{
-	background-color:lightgray;	
+    background-color: whitesmoke ;
+   
+}
+
+header {
+    color:#d2df1f;
+    text-shadow: 5px 2px 3px #1fdd58 ;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-size: 230%;
+    width: 100%;
+}
+
+
+p {
+      float:left;
+      color: #f2f3f5;
+      text-align: center;
+      padding: 14px 16px;
+      margin-left: 6%;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-style: oblique;
+      font-variant: small-caps;
+
+    }
+
+p:hover {
+      background-color: #aeb911;
+      color: black;
+      font-weight: bold;
+    }
+
+section {
+    float: left;
+    width: 51%;
+    margin-left: 25%;
+    margin-top: 4%;
+   
 }
 div{
 	position:absolute;
